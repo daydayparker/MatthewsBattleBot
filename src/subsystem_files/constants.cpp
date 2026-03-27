@@ -1,0 +1,11 @@
+#include "main.h"
+
+//DELAY CONSTANTS
+extern const int WHILE_LOOP_DELAY = 10;
+
+//GENERAL CONSTANTS
+const int MAX_VOLTAGE = 127;
+
+//PRECISION CONSTANTS
+const int ANALOG_DEAD_ZONE = 20;
+
